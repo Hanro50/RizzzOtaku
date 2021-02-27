@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url('/background image/main page background.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.welcome{
+    color: white;
+    -webkit-text-stroke-width: 2px ;
+    -webkit-text-stroke-color: black;
+    font-size: 70px;
+    text-align: center;
+}
+
+#projects{
+    color: white;
+    -webkit-text-stroke-width: 1.3px ;
+    -webkit-text-stroke-color: black;
+    font-size: 51px;
+    margin-top: 43px;
+    text-align: center;
+}
+.project{
+    text-decoration: none;
+    -webkit-text-stroke-width: 1.3px ;
+    -webkit-text-stroke-color: rgba(255, 255, 255, 0.561);
+}
+#projects :visited{
+    color: white;
+}
+    
+
+#projects :hover{
+    color: rgb(54, 53, 53);
+    /* -webkit-text-stroke-width: 1.9px ; */
+    /* -webkit-text-stroke-color: rgb(0, 0, 0); */
+}
+
+/* #projects :active{
+    color: rgb(142, 141, 143);    
+} */
+
+.socialmedia{
+    margin: auto;
+    width: 37%;
+    /* box-sizing: border-box; */
+}
+
+/* #discord{
+    margin-left: 157px;
+} */
+
+.socialmedia img:hover {
+    -webkit-filter: drop-shadow(1px 1px 0 black)
+        drop-shadow(-1px -1px 0 black);
+    filter: drop-shadow(1px 1px 0 black) 
+            drop-shadow(-1px -1px 0 black)
+            invert(100%);
+}
+.images{
+    margin-top: 114px;
+    width: 95px;
+}
+
+#youtube{
+    margin-left: 40px;
+}
+
