@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://rizzzotaku.github.io/RizzzOtaku/ 👋
 
 <!--
 **RizzzOtaku/RizzzOtaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
